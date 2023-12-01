@@ -10,11 +10,12 @@ ORG_LOGO="https://raw.githubusercontent.com/DAOmocracy/testDAO/main/public/testD
 ORG_DESCRIPTION="DAO test for DAOmocracy."
 
 [[DAO]]
+DAO_ASSET="testDAO"
 DAO_ADMIN=[
 "GC6QKE63CSE4XATU6BY7COP3XBMKD5LUAAE3IF3LNR4VCH75XDQFXQGX",
 "GD7375UUB266OHX5RQS7SGS37H3YX2P2VKZE332HDIKJSQDORIPJIA4W"
 ]
-DAO_LOGO= "https://raw.githubusercontent.com/DAOmocracy/testDAO/main/public/testDAO.png"
+DAO_LOGO="https://raw.githubusercontent.com/DAOmocracy/testDAO/main/public/testDAO.png"
 
 [[CURRENCIES]]
 code="testDAO"
