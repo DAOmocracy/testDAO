@@ -9,12 +9,12 @@ ORG_URL="https://daomocracy.github.io/testDAO/"
 ORG_LOGO="https://raw.githubusercontent.com/DAOmocracy/testDAO/main/public/testDAO.png"
 ORG_DESCRIPTION="DAO test for DAOmocracy."
 
-[[DAOM]]
+[[DAO]]
 DAO_ADMIN=[
 "GC6QKE63CSE4XATU6BY7COP3XBMKD5LUAAE3IF3LNR4VCH75XDQFXQGX",
 "GD7375UUB266OHX5RQS7SGS37H3YX2P2VKZE332HDIKJSQDORIPJIA4W"
 ]
-DAO_LOG= "https://raw.githubusercontent.com/DAOmocracy/testDAO/main/public/testDAO.png"
+DAO_LOGO= "https://raw.githubusercontent.com/DAOmocracy/testDAO/main/public/testDAO.png"
 
 [[CURRENCIES]]
 code="testDAO"
@@ -23,5 +23,5 @@ issuer="GCIKW6FLYZEPFZ6C2LSQCXQCUM3GB5ZOPFOHJVN25SPZZ4LXAEHVHKR3"
 is_asset_anchored=false
 display_decimals=7
 desc="testDAO has no value, but will be used solely for testing purpose."
-image="https://raw.githubusercontent.com/DAOmocracy/testDAO/main/public/testDAO.png."
+image="https://raw.githubusercontent.com/DAOmocracy/testDAO/main/public/testDAO.png"
 conditions="testDAO has no value."
