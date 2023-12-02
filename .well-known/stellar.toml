@@ -9,13 +9,20 @@ ORG_URL="https://daomocracy.github.io/testDAO/"
 ORG_LOGO="https://raw.githubusercontent.com/DAOmocracy/testDAO/main/public/testDAO.png"
 ORG_DESCRIPTION="DAO test for DAOmocracy."
 
-[[DAO]]
-DAO_ASSET="testDAO"
-DAO_ADMIN=[
+[DAO]
+DAO_name="testDAO"
+DAO_desc="this is a test DAO for DAOmocracy"
+DAO_asset_code="testDAO"
+DAO_asset_issuer="GCIKW6FLYZEPFZ6C2LSQCXQCUM3GB5ZOPFOHJVN25SPZZ4LXAEHVHKR3"
+DAO_image="https://raw.githubusercontent.com/DAOmocracy/testDAO/main/public/testDAO.png"
+DAO_admin=[
 "GC6QKE63CSE4XATU6BY7COP3XBMKD5LUAAE3IF3LNR4VCH75XDQFXQGX",
 "GD7375UUB266OHX5RQS7SGS37H3YX2P2VKZE332HDIKJSQDORIPJIA4W"
 ]
-DAO_LOGO="https://raw.githubusercontent.com/DAOmocracy/testDAO/main/public/testDAO.png"
+DAO_twitter="daotwitter.account"
+DAO_discord="daodiscord.link"
+DAO_github="daogithub.account"
+
 
 [[CURRENCIES]]
 code="testDAO"
